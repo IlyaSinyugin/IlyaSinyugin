@@ -1,6 +1,6 @@
 <h2>Ilya Sinyugin</h2>
 <p><em>Computer Science student at the University of Twente</em></p>
-<img width = "35%" align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img width = "35%" align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 
 <div align="left">
