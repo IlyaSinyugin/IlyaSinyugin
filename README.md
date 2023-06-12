@@ -1,5 +1,4 @@
 <h2>Ilya Sinyugin</h2>
-<p><em>Currently looking for an internship!</em></p>
 
 <p><em>Computer Science student at the University of Twente</em></p>
 <img width = "80%" align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
